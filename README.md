@@ -1,5 +1,6 @@
 <div align="center"><h1>Dicee</h1>
-
+This project demonstrates basic HTML structure, CSS styling, and JavaScript functionality to create an engaging and interactive web page for a dice game. It's a great example of how to combine these technologies to create a fun and simple web application.The purpose of this project is to create a simple interactive web page where users can play a virtual dice game.
+The dice images are randomly refreshed each time the page is loaded or refreshed, providing a game-like experience.
 
 
 # Player 1 Won
